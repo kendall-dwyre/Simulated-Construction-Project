@@ -1,7 +1,7 @@
 # Construction Project Analysis with Machine Learning
 
 ## Project Overview
-This project involves a simulated dataset representing a construction company's project data. The dataset includes information on project phases, material costs, labor costs, supply risks, and various other features influencing the success and completion of construction projects. The goal of this analysis is twofold:
+This project involves a simulated dataset that I created representing a construction company's project data (I can include the data source in the repository as well). The dataset includes information on project phases, material costs, labor costs, supply risks, and various other features influencing the success and completion of construction projects. The goal of this analysis is twofold:
 1. **Predict the final cost** of construction projects based on various factors.
 2. **Classify project completion**, predicting whether a project will be completed based on available data.
 
