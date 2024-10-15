@@ -42,9 +42,8 @@ In the Improve phase, the insights gained from the analysis can be used to drive
 - **Cost Savings**: With the Random Forest model predicting project costs to within **$3,171** of the actual cost, companies could significantly reduce unexpected cost overruns. If a company typically spends $500,000 per project, a reduction in error by even **1%** (equivalent to **$5,000** per project) could result in significant savings.
 
 - For example, with 100 projects per year, if the company avoids **5%** of cost overruns on each project through better planning and resource allocation, the total savings would amount to:
-   \[
-   100 \text{ projects} \times 5,000 \text{ (1% per project)} = 500,000 \text{ USD saved annually}
-   \]
+- 
+   100 projects * 5,000 (1% per project) = $500,000 
    
    This estimation assumes that predictive models help in catching and mitigating cost escalations early in the process.
 
@@ -63,23 +62,7 @@ Adopting these models could save the company **$500,000** annually by minimizing
 
 ---
 
-## How to Run the Analysis
 
-1. Clone the repository:
-    ```bash
-    git clone <repository-link>
-    ```
-
-2. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. Run the analysis:
-    You can execute the analysis in a Python environment by running the provided script:
-    ```bash
-    python construction_analysis.py
-    ```
 
 ### Requirements
 - pandas
